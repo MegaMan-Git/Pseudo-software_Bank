@@ -8,8 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar; //
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;  //
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;  
 using System.IO;
 using System.Runtime.Remoting.Messaging;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
